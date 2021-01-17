@@ -1,0 +1,18 @@
+{
+  "name": "Webscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstPost.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "mongoose": "^5.11.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
